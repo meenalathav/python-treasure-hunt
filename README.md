@@ -4,6 +4,7 @@
 
 <p>
 <b>Start Here at Level 0 (warm-up level):</b>
+<br>
 Puzzle 1: http://www.pythonchallenge.com/pc/def/0.html
 
 Hint: Calculate 2 to the power of 38 while making note of the fact that an int in Python is a container for numbers larger than a 32-bit int in languages such as Java
